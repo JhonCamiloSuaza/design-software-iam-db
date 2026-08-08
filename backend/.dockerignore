@@ -1,0 +1,3 @@
+iam-security-backend.exe
+*.log
+.env

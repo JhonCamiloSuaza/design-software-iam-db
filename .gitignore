@@ -1,0 +1,6 @@
+*.log
+*.tmp
+.env
+liquibase.properties
+frontend/node_modules
+backend/iam-security-backend.exe
